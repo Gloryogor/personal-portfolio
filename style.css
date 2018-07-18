@@ -102,6 +102,14 @@ header h1 {
 .social-icon {
   margin-right: 10px;
 }
+.glory {
+  width: 40%;
+  position: align;
+}
+.text {
+  width: 60%
+  position: align;
+}
 
 @media screen and (max-width: 1300px) {
   .about-me {
